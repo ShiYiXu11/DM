@@ -23,6 +23,7 @@ there are some error with SVC and LightGBM while using jupyter(seems something w
 Just use SVC.py and LightGBM.py, their results are stored in 'lgb_result.csv' and 'lgb_result.csv'
 
 ##vote
+
 there are only three methods' result in Dataframe(in Jupyter), and the other two set of results stored in 'lgb_result.csv' and 'lgb_result.csv' are emerged to result.csv manually :(
 
 all outcomes of models are stored in 'result.csv', and our vote outcome is stored in 'vote.csv'
