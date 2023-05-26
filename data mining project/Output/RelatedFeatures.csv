@@ -1,0 +1,12 @@
+feature_1,feature_2
+slow_heart_rate,abdominal_pain
+breathing_restriction,toe_inflammation
+breathing_restriction,finger_inflammation
+breathing_restriction,lips_irritation
+toe_inflammation,finger_inflammation
+toe_inflammation,lips_irritation
+finger_inflammation,lips_irritation
+itchiness,ulcers
+itchiness,toenail_loss
+ulcers,toenail_loss
+speech_problem,bullseye_rash

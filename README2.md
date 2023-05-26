@@ -28,3 +28,18 @@ there are only three methods' result in Dataframe(in Jupyter), and the other two
 all outcomes of models are stored in 'result.csv', and our vote outcome is stored in 'vote.csv'
 
 copy vote outcome to 'sample_submission.cvs', and submit it to kaggle.
+
+## Some Changes
+1. have deleted code that cannot run on Jupiter
+2. Use reduction data set(??)
+3. turn around to use original data set again.... But keep 2. in annotation
+#_PS_
+Since using reduced features,the score on kaggle is even worse
+
+Maybe we need to use the ORIGINAL DATASET but still describe reduction thing on report
+
+Maybe it's because my evaluation method, we could check again/rerun after merging & error analysis
+
+![image](pic.jpg)
+
+
